@@ -1,24 +1,27 @@
 
-
-
-
-
 <h1 align="center">Hi , I'm Milind Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Developer+at+SAP;Based+In+Munich;Competitive+Programmer;Expert+on+Python;Expert+on+SAPUI5;Expert+on+JavaScriprt;Love+To+Code"></a>
 
+
+
+<table>
+  <tr>
+    <th><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Developer+at+SAP;Based+In+Munich;Competitive+Programmer;Expert+on+Python;Expert+on+SAPUI5;Expert+on+JavaScriprt;Love+To+Code"></a></th>
+    <th><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR2bXN0OWpuMDA5NzRha211N2c0YjFtaDczbXJsYzRlZjIzejR6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif"/></th>
+    
+  </tr>
+
+</table>
 </p>
-
-
 <be>
 
 <be>
 
 
-## 🛠️ About Me
+## &#128512; About Me
 
 <p align="center"> 
-  &emsp; 
+  
   <ul>
   <li>8+ years of programming experience</li>
     <li>Proficient in multiple programming languages, including but not limited to UI5, Python, JavaScript</li>
@@ -30,20 +33,11 @@
 </ul>
 </p>
 
-## 🛠️ Contact Details
 
-<p> 
- 
-<a href= "mailto:bhattmilindv@gmail.com" target="_blank">Send Email</a> <br>
-<a href="https://www.linkedin.com/in/bhattmilind/" target="_blank">LinkedIn Profile </a>
-</p>
-
-
-  
 ## 🛠️ My Certifications
 
 <p align="center"> 
-  &emsp; 
+   
   <ul>
   <li><a href= "https://www.credly.com/badges/b2ea3049-3152-4508-af03-8adf510e65fd" target="_blank">Discovering SAP Business Technology Platform </a></li>
   <li><a href= "https://coursera.org/share/140ae36b142058f914409a0551718797" target="_blank">Python for Data Science, AI & Development</a></li>
@@ -56,12 +50,12 @@
 
 
 
-## 🛠️ My Skills
+## &#128187; My Skills
 
 ### Programming languages
 
 <p align="center"> 
-  &emsp; 
+
   <ul>
   <li>Python</li>
   <li>SAP UI5</li>
@@ -75,13 +69,22 @@
 ### Programming concepts
 
 <p align="center"> 
-  &emsp; 
+  
   <ul>
    <li>SAP Identity and Access Management (IAM)</li>
   <li>Agile Methodology</li>
 </ul>
 </p>
 
+## &#128232; Contact Details
+
+<p> 
+ 
+<a href= "mailto:bhattmilindv@gmail.com" target="_blank">Send Email</a> <br>
+<a href="https://www.linkedin.com/in/bhattmilind/" target="_blank">LinkedIn Profile </a>
+</p>
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 	
 ## 🐍 A Snake Eating my Contributions Graph
