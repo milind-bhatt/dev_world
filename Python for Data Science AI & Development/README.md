@@ -1,9 +1,9 @@
 
 
 
-# Foobar
+# Overview
 
-This folder contains  information I gained during the course "Python for Data Science, AI & Development" by IBM. 
+This folder contains  information I gained during the "Python for Data Science, AI & Development" course by IBM. 
 
 
 ## My Certifications
