@@ -45,7 +45,7 @@
 <p align="center"> 
   &emsp; 
   <ul>
-  <li><a href= "https://www.credly.com/badges/b2ea3049-3152-4508-af03-8adf510e65fd" target="_blank">Discovering SAP Business Technology Platform - Record of Achievement</a></li>
+  <li><a href= "https://www.credly.com/badges/b2ea3049-3152-4508-af03-8adf510e65fd" target="_blank">Discovering SAP Business Technology Platform </a></li>
   <li><a href= "https://coursera.org/share/140ae36b142058f914409a0551718797" target="_blank">Python for Data Science, AI & Development</a></li>
   <li><a href= "https://www.credly.com/badges/1f04907e-393f-4226-b366-a5f7f3c4d218/linked_in_profile" target="_blank">SAP Developer Knowledge​ 2020 - Build SAP Fiori UIs with SAPUI5</a></li>
  <li><a href= "https://open.sap.com/verify/xuvis-dafiz-gahos-lidon-dafot" target="_blank">Enable Users in Multilingual Business with SAP Translation Hub</a></li>
