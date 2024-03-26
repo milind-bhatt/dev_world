@@ -1,1 +1,1 @@
-# python_world
+This project provides a collection of Python learning tutorials and tricks, which I learnt during my Python-learning-journey. Each tutorial covers fundamental Python concepts, accompanied by code examples and explanations to help learners grasp key concepts effectively.
