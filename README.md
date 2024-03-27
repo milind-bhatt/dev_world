@@ -23,6 +23,7 @@
 <p align="center"> 
   
   <ul>
+<li>Senior Software Developer at SAP SE, Munich</li>
   <li>8+ years of programming experience</li>
     <li>Proficient in multiple programming languages, including but not limited to UI5, Python, JavaScript</li>
    <li>Skilled in both front-end and back-end development, with a strong understanding of web technologies and frameworks </li>
