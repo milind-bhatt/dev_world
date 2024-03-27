@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Milind Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Milind Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
 
@@ -34,23 +34,6 @@
 </ul>
 </p>
 
-
-## 🛠️ My Certifications
-
-<p align="center"> 
-   
-  <ul>
-  <li><a href= "https://www.credly.com/badges/b2ea3049-3152-4508-af03-8adf510e65fd" target="_blank">Discovering SAP Business Technology Platform </a></li>
-  <li><a href= "https://coursera.org/share/140ae36b142058f914409a0551718797" target="_blank">Python for Data Science, AI & Development</a></li>
-  <li><a href= "https://www.credly.com/badges/1f04907e-393f-4226-b366-a5f7f3c4d218/linked_in_profile" target="_blank">SAP Developer Knowledge​ 2020 - Build SAP Fiori UIs with SAPUI5</a></li>
- <li><a href= "https://open.sap.com/verify/xuvis-dafiz-gahos-lidon-dafot" target="_blank">Enable Users in Multilingual Business with SAP Translation Hub</a></li>
-  
-</ul>
-</p>
-
-
-
-
 ## &#128187; My Skills
 
 ### Programming languages
@@ -77,18 +60,33 @@
 </ul>
 </p>
 
+
+## &#128640; My Certifications
+
+<p align="center"> 
+   
+  <ul>
+  <li><a href= "https://www.credly.com/badges/b2ea3049-3152-4508-af03-8adf510e65fd" target="_blank">Discovering SAP Business Technology Platform </a></li>
+  <li><a href= "https://coursera.org/share/140ae36b142058f914409a0551718797" target="_blank">Python for Data Science, AI & Development</a></li>
+  <li><a href= "https://www.credly.com/badges/1f04907e-393f-4226-b366-a5f7f3c4d218/linked_in_profile" target="_blank">SAP Developer Knowledge​ 2020 - Build SAP Fiori UIs with SAPUI5</a></li>
+ <li><a href= "https://open.sap.com/verify/xuvis-dafiz-gahos-lidon-dafot" target="_blank">Enable Users in Multilingual Business with SAP Translation Hub</a></li>
+  
+</ul>
+</p>
+
 ## &#128232; Contact Details
 
 <p> 
- 
-<a href= "mailto:bhattmilindv@gmail.com" target="_blank">Send Email</a> <br>
-<a href="https://www.linkedin.com/in/bhattmilind/" target="_blank">LinkedIn Profile </a>
+<table style="width:100%, border:none">
+  <tr align="left">
+    <td>Email: <a href= "mailto:bhattmilindv@gmail.com" target="_blank">bhattmilindv@gmail.com</a></td>
+  </tr>
+   <tr>
+    <td>LinkedIn Profile: <a href="https://www.linkedin.com/in/bhattmilind/" target="_blank">Milind Bhatt</a></td> 
+  </tr>
+   
+</table>
 </p>
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-	
-## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
