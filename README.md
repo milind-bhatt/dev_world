@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <th><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Developer+at+SAP;Based+In+Munich;Competitive+Programmer;Expert+on+Python;Expert+on+SAPUI5;Expert+on+JavaScriprt;Love+To+Code"></a></th>
+    <th><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Developer+at+SAP;Based+In+Munich;Coding+the+future,+one+line+at+a+time.;Enjoys+playing+musical+keyboard.;"></a></th>
     <th><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR2bXN0OWpuMDA5NzRha211N2c0YjFtaDczbXJsYzRlZjIzejR6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif"/></th>
     
   </tr>
