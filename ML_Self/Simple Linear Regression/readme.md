@@ -1,0 +1,1 @@
+Ordinary Least Squares:![alt text](<Simple Linear Regression.png>)
