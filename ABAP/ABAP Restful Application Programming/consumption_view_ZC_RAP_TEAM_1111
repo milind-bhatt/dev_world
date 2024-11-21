@@ -1,0 +1,32 @@
+@AbapCatalog.viewEnhancementCategory: [#NONE]
+@AccessControl.authorizationCheck: #NOT_REQUIRED
+@EndUserText.label: 'Consumption view'
+@Metadata.ignorePropagatedAnnotations: true
+@ObjectModel.usageType:{
+    serviceQuality: #X,
+    sizeCategory: #S,
+    dataClass: #MIXED
+}
+@Metadata.allowExtensions: true
+define root view entity ZC_RAP_TEAM_1111 as select from ZI_RAP_TEAM_1111 as iview
+{
+    @EndUserText.label: 'Id'
+  key Id,
+  @EndUserText.label: 'First Name'
+      @Search.defaultSearchElement: true
+      Firstname,
+      @EndUserText.label: 'Last Name'
+      @Search.defaultSearchElement: true
+      Lastname,
+      @EndUserText.label: 'Age'
+      Age,
+      @Search.defaultSearchElement: true
+      @EndUserText.label: 'Role'
+      Role,
+      @EndUserText.label: 'Salary'
+      Salary,
+      @EndUserText.label: 'Active'
+      Active,
+      LastChangedAt,
+      LocalLastChangedAt
+}
