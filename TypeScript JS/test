@@ -1,0 +1,15 @@
+//mocha test
+
+const assert = require('assert');
+
+function pow(base, exponent) {
+  return base ** exponent;
+}
+
+describe("pow", function() {
+  it("raises to n-th power", function() {
+    assert.equal(pow(2, 3), 8); // Passes
+  });
+});
+
+//to run this, run "npx mocha" in terminal
