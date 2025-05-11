@@ -38,4 +38,44 @@ console.log(car.make)
 console.log(typeof(car)) //object
 console.log(typeof(true)) //boolean
 
+//Arrays
+let fruits = ["Apple", "Orange", "Plum"];
 
+fruits[0]; //Apple
+fruits[3] = 'Lemon'; // now ["Apple", "Orange", "Pear", "Lemon"]
+fruits.length; //4
+fruits.at(-1) //Lemon, last element of array
+fruits.pop() //removes Lemon
+fruits.push("Pear"); //add Pear at end of list
+fruits.shift() // remove Apple (first element)
+fruits.unshift('Watermelon') //adds Watermelon to start of list
+
+// modify the array by reference
+let fruits = ["Banana"]
+let arr = fruits; 
+arr.push("Pear");
+console.log(fruits) // Banana, Pear
+
+//Performance: 
+//Methods push/pop run fast, while shift/unshift are slow
+
+//Loops
+let cars = ["BMW","FORD","MERCEDES","TATA"]
+for(let i = 0; i<cars.length; i++)
+{
+  console.log(cars[i])
+}
+
+//Multidimensional arrays
+let matrix = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+];
+console.log( matrix[0][0]);
+
+//add "Rock-n-Roll" in end and remove middle element from array and replace with "Classics"
+let styles = ["Jazz", "Blues"]
+styles.push("Rock-n-Roll");
+styles[Math.floor((styles.length-1)/2)] = "Classic"
+console.log(styles)
