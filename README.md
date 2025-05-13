@@ -56,7 +56,6 @@
 <p align="center"> 
   
   <ul>
-   <li>SAP Identity and Access Management (IAM)</li>
   <li>Agile Methodology</li>
 </ul>
 </p>
