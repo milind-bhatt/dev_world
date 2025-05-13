@@ -1,0 +1,5 @@
+Install:
+npm install typescript --save-dev
+
+The compiler can be configured using a tsconfig.json file:
+npx tsc --init
