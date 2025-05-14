@@ -42,10 +42,10 @@
 
   <ul>
   <li>Python</li>
-   <li>Machine Learning</li>
+  <li>Javascript + TypeScript</li>
   <li>SAP UI5</li>
     <li>Test automation: QUnit and OPA5</li>
-  <li>JavaScript</li>  
+	  <li>Identity and Access Management (Roles, Authorizations, Catalogs, App-as-an-entity etc)</li>
   <li>HTML + CSS</li>
     
 </ul>
@@ -56,7 +56,6 @@
 <p align="center"> 
   
   <ul>
-   <li>SAP Identity and Access Management (IAM)</li>
   <li>Agile Methodology</li>
 </ul>
 </p>
