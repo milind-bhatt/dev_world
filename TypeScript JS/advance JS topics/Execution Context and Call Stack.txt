@@ -1,0 +1,108 @@
+Topic 2: Execution Context & Call Stack
+Understanding how JavaScript runs your code internally is critical to mastering advanced concepts like hoisting, closures, and async behavior.
+
+📌 What is an Execution Context?
+An execution context is the environment in which JavaScript code is evaluated and executed.
+
+There are 3 types:
+
+Global Execution Context (GEC)
+
+Created when your script starts
+
+One per program
+
+this refers to the global object (like window in browsers)
+
+Function Execution Context (FEC)
+
+Created whenever a function is called
+
+Each has its own arguments, local variables, and this
+
+Eval Execution Context (rarely used, and discouraged)
+
+📌 Two Phases of Execution
+Every execution context goes through:
+
+Creation Phase
+
+Memory is allocated for variables and functions
+
+var is hoisted (set to undefined)
+
+let and const are hoisted but not initialized (temporal dead zone)
+
+this is set
+
+Execution Phase
+
+Code is executed line by line
+
+Variables are assigned values
+
+Functions are invoked
+
+🧠 Example with Hoisting
+js
+Copy
+Edit
+console.log(x); // undefined
+greet();        // "Hello!"
+
+var x = 10;
+function greet() {
+  console.log("Hello!");
+}
+Behind the scenes, JavaScript does this:
+
+js
+Copy
+Edit
+// Creation Phase (hoisting)
+var x = undefined;
+function greet() { console.log("Hello!"); }
+
+// Execution Phase
+console.log(x); // undefined
+greet();        // Hello!
+x = 10;
+📌 Call Stack (Execution Stack)
+The call stack is where execution contexts are pushed and popped:
+
+js
+Copy
+Edit
+function first() {
+  second();
+}
+function second() {
+  console.log("Second!");
+}
+first();
+🧱 Call stack looks like:
+
+sql
+Copy
+Edit
+| second()         |
+| first()          |
+| Global Context   |
+When second() finishes, it’s popped off the stack, then first(), then the program ends.
+
+🔥 Common Errors:
+Stack Overflow: Too much recursion
+
+js
+Copy
+Edit
+function recurse() {
+  recurse();
+}
+recurse(); // ❌ Maximum call stack size exceeded
+✅ Summary:
+Concept	Purpose
+Execution Context	Container for running code
+Call Stack	Tracks function calls
+Hoisting	Variables/functions moved to the top
+this in context	Depends on how function is called
