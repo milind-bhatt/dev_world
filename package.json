@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@cap-js/cds-types": "^0.15.0"
+  }
+}
