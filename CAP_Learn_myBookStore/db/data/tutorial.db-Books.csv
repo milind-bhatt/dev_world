@@ -1,9 +1,0 @@
-ID,title,author_ID,genre,publishedAt,pages,price,createdAt,createdBy,modifiedAt,modifiedBy
-30634427-fdd8-4751-af0c-b4fc710860d9,title-30634427,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634427,2010-06-17,63,48.17,2006-11-21T23:00:00.000Z,createdBy.i8lob@example.org,2002-04-14T23:00:00.000Z,modifiedBy.i8lob@example.net
-30634428-2655-4070-a0ba-a50855e4ea68,title-30634428,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634428,2023-09-24,63,21.07,2023-08-19T23:00:00.000Z,createdBy.i8loc@example.org,2013-03-24T23:00:00.000Z,modifiedBy.i8loc@example.com
-30634429-b200-4373-a25a-bd44caa6747b,title-30634429,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634429,2000-01-22,76,71.62,2001-09-18T23:00:00.000Z,createdBy.i8lod@example.org,2004-10-30T23:00:00.000Z,modifiedBy.i8lod@example.com
-30634430-4bec-4fe7-84fe-0c7497f9c63c,title-30634430,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634430,2004-06-21,30,15.03,2013-01-04T23:00:00.000Z,createdBy.i8loe@example.net,2013-04-28T23:00:00.000Z,modifiedBy.i8loe@example.org
-30634431-617e-4a11-bf36-94455cac531c,title-30634431,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634431,2023-09-19,44,80.29,2015-05-17T23:00:00.000Z,createdBy.i8lof@example.com,2007-01-22T23:00:00.000Z,modifiedBy.i8lof@example.com
-30634432-b589-4c99-877d-9d2fad761b9f,title-30634432,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634432,2016-08-30,29,70.48,2007-05-26T23:00:00.000Z,createdBy.i8log@example.org,2010-10-22T23:00:00.000Z,modifiedBy.i8log@example.net
-30634433-228b-4c0b-b6ab-e671f2c972f0,title-30634433,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634433,2001-07-21,6,46.22,2017-06-21T23:00:00.000Z,createdBy.i8loh@example.net,2001-10-26T23:00:00.000Z,modifiedBy.i8loh@example.net
-30634434-536d-4f24-8296-4b1d55f85de6,title-30634434,19436203-6a15-47c3-b2fa-f71fe2c9a99a,genre-30634434,2022-08-27,79,8.25,2020-11-12T23:00:00.000Z,createdBy.i8loi@example.org,2016-05-01T23:00:00.000Z,modifiedBy.i8loi@example.net
