@@ -1,7 +1,7 @@
 const mysrvdemo = function(srv)
 {
     srv.on("myfuncname", function(req , res) {
-        return "Hello!";
+        return "Hello world!";
     });
 };
 
